@@ -1,0 +1,43 @@
+body h1{
+    font-size: 40px;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body p{
+    font-size: 16px;
+    text-transform:lowercase;
+}
+.header-bg{
+    background-image: url(img/Sunset\ in\ the\ Park.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.header-row{
+    padding-top:5%;
+}
+
+
+.why-yoga .fas{
+    font-size: 50px;
+    color: #9d7373;
+}
+
+
+
+/* advanced section  */
+.advanced-cont{
+    background-image: url(img/running-3684873_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+
+
+
+.programs img{
+    width: 100%;
+    min-height: 200px;
+}
